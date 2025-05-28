@@ -25,8 +25,6 @@
 A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.  
 ⚡ Features a modern layout with interactive elements and mobile responsiveness.
 
-![Spotify Clone Screenshot](https://github.com/Srijita627/Spotify-Clone-HTML-CSS/raw/main/screenshot.png)
-
 ---
 
 ## 🛠 Tech Stack
@@ -50,12 +48,6 @@ A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srijita627&layout=compact&theme=radical" alt="top-langs" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Srijita627/Srijita627/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
