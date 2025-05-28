@@ -63,4 +63,8 @@ A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.
 
 ---
 
+🔥 **If you find my work useful, consider giving a ⭐ to my repositories!** 
+
+---
+
 <p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
