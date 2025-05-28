@@ -1,11 +1,14 @@
-<h1 align="center">🚀 Hey, I'm Srijita!</h1>
+<h2>🚀 Hey, I'm Srijita!</h2>
 
-<p align="center">
-  <b>Frontend Developer | Coding Enthusiast | Open Source Explorer</b><br>
-  Passionate about building creative and responsive user interfaces
-</p>
+<b>Frontend Developer | Coding Enthusiast | Open Source Explorer</b><br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Aspiring+Frontend+Developer;Building+interactive+UIs+with+HTML+%26+CSS;Exploring+the+world+of+Web+Development;Open+to+learning+and+collaborating)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=500&lines=Frontend+Developer;Exploring+Web+Development;Open+Source+Contributor;Always+Learning+%26+Creating" alt="Typing SVG" />
+
+<br>
+
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #ff9100;">
+  <b>Exploring the world of Web Development</b>
+</span>
 
 ---
 
