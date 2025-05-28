@@ -27,9 +27,7 @@ A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.
 🔗 [Live Demo](https://srijita627.github.io/spotify-clone-srijita/)  
 🔗 [Source Code](https://github.com/Srijita627/spotify-clone-srijita/)
 
-<img src="spotify-clone-preview.jpg" alt="Spotify Clone Screenshot" align="right" width="300" style="margin-left: 20px;"/>
-
-
+<img src="spotify-clone-preview.jpg" alt="Spotify Clone Preview" align="right" width="300" />
 
 ---
 
