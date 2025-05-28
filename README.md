@@ -25,7 +25,7 @@
 A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.  
 🖥️ Features a modern layout with interactive elements and mobile responsiveness.
 
-![Spotify Clone Preview](assets/spotify-clone-preview.jpg)
+![Spotify Clone Preview](spotify-clone-preview.jpg)
 
 ---
 
