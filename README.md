@@ -5,6 +5,8 @@
   Passionate about building creative and responsive user interfaces
 </p>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=700&lines=Aspiring+Frontend+Developer;Building+interactive+UIs+with+HTML+%26+CSS;Exploring+the+world+of+Web+Development;Open+to+learning+and+collaborating)
+
 ---
 
 ## 🧠 About Me
