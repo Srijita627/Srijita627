@@ -8,6 +8,7 @@
     alt="Typing SVG"
   />
 </p>
+
 ---
 
 ## 🧠 About Me
