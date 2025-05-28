@@ -1,7 +1,6 @@
 <h1 align="left">🚀 Hey, I'm Srijita!</h1>
 
 **Frontend Developer | Coding Enthusiast | Open Source Explorer**  
-**<span style="color:orange; font-weight:bold">Open Source Contributor</span>**
 
 <p align="left">
   <img 
