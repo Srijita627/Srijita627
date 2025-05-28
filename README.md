@@ -1,14 +1,14 @@
-<h2>🚀 Hey, I'm Srijita!</h2>
+<h1 align="left">🚀 Hey, I'm Srijita!</h1>
 
-<b>Frontend Developer | Coding Enthusiast | Open Source Explorer</b><br><br>
+**Frontend Developer | Coding Enthusiast | Open Source Explorer**  
+**<span style="color:orange; font-weight:bold">Open Source Contributor</span>**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9100&width=500&lines=Frontend+Developer;Exploring+Web+Development;Open+Source+Contributor;Always+Learning+%26+Creating" alt="Typing SVG" />
-
-<br>
-
-<span style="font-family: 'Courier New', Courier, monospace; font-size: 18px; color: #ff9100;">
-  <b>Exploring the world of Web Development</b>
-</span>
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FF9100&center=false&vCenter=false&width=700&lines=Exploring+the+world+of+Web+Development;Always+learning+and+building+awesome+things!" 
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
