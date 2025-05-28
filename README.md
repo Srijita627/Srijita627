@@ -9,13 +9,13 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **JavaScript**, **React**, and **Data Structures**
+- 🌱 Currently learning **HTML**, **CSS**, **JavaScript**,**React** and **Data Structures**
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 🎨 Interested in **Frontend Development and UI/UX Design**
 - 🧹 Focused on writing **clean and efficient code**
 - 📍 Based in **New Delhi**
 - 🚀 Always eager to **learn & grow in tech!**
-- 📫 Let’s connect: [dattasrijita627@gmail.com](mailto:dattasrijita627@gmail.com)
+- 📫 Let’s connect: [dattasrijita627@gmail.com](mailto:dattasrijita1@gmail.com)
 
 ---
 
