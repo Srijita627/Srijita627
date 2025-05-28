@@ -21,12 +21,15 @@
 
 ## 🎵 Spotify UI Clone
 
-| Description | Preview |
-|-------------|---------|
-| A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.  
+A responsive frontend-only clone of Spotify built using **HTML** and **CSS**.  
 🧩 Features a modern layout with interactive elements and mobile responsiveness.  
+
 🔗 [Live Demo](https://srijita627.github.io/spotify-clone-srijita/)  
-🔗 [Source Code](https://github.com/Srijita627/spotify-clone-srijita) | ![Spotify Clone Preview](spotify-clone-preview.jpg) |
+🔗 [Source Code](https://github.com/Srijita627/spotify-clone-srijita/)
+
+<img src="spotify-clone-preview.jpg" alt="Spotify Clone Screenshot" align="right" width="300" style="margin-left: 20px;"/>
+
+
 
 ---
 
