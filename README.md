@@ -1,49 +1,47 @@
 # 🚀 Hey, I'm Srijita!
 
-**Mechatronics Engineering Student | Frontend Developer | Open Source Contributor**
+### Frontend Developer | Coding Enthusiast | Open Source Explorer
 
-### <span style="color:orange">Passionate about building beautiful and functional web apps</span>
+<p><strong><span style="color:orange">Passionate about building creative and responsive user interfaces</span></strong></p>
 
 ---
 
-## 👩‍💼 About Me
+## 👩‍💻 About Me
 
-- 🖥️ Tech Enthusiast exploring **Frontend Development**
-- 💡 Currently learning **JavaScript, React, and Data Structures**
-- 🌱 Always eager to learn and grow through real-world projects
-- 🤝 Looking to contribute to **Open Source Projects**
+- 🌱 Currently learning **JavaScript, React, and Data Structures**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 🌐 Interested in **Frontend Development** and **UI/UX Design**
+- 🔍 Focused on writing clean and efficient code
 - 📍 Based in **New Delhi**
-- 👩‍🎓 Mechatronics engineering student
+- ✨ Always eager to learn & grow in tech!
 
-📩 Let’s connect: **[dattasrijita627@gmail.com](mailto:dattasrijita627@gmail.com)**
-
----
-
-## 🛠 Tech Stack
-
-- 💻 Languages: JavaScript, HTML, CSS
-- 🌐 Frameworks/Libraries: React (Learning), Bootstrap
-- 🔧 Tools: Git, GitHub, VS Code
+📬 Let's connect: **[dattasrijita627@gmail.com](mailto:dattasrijita627@gmail.com)**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+- 💻 **Languages**: JavaScript, HTML, CSS  
+- 🌐 **Frontend**: React, Tailwind CSS  
+- 🛠️ **Tools**: Git, GitHub, VS Code  
+- 📊 **Currently exploring**: APIs, Component Libraries
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijita627&show_icons=true&theme=github_dark&hide_border=true" alt="Srijita's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijita627&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijita627&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijita627&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/srijita-datta-b06313318/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="mailto:dattasrijita627@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijita-datta-b06313318/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattasrijita627@gmail.com)
+
+---
+
+<p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
