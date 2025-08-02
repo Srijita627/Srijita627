@@ -11,10 +11,11 @@
 ## **👩‍💻 About Me**
 🔹 **Passionate about Open Source, DSA, & Full-Stack Development**  
 🔹 **Research Intern at DRDO – Solid State Physics Laboratory**  
-🔹 **Creating Projects in AI, IoT, and Full Stack Web Dev**
-🔹 **Interested in <b>Frontend Development</b> and <b>UI/UX Design</b>** 
+🔹 **Creating Projects in AI, IoT, and Full Stack Web Dev**  
+🔹 **Interested in Frontend Development and UI/UX Design**  
 🔹 **Actively Learning DSA, Python, and Machine Learning**  
 🔹 **Love building creative, interactive web experiences**
+
 
 📩 **Let's connect:** [dattasrijita1@gmail.com](mailto:dattasrijita1@gmail.com)
 
