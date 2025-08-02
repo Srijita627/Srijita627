@@ -1,6 +1,5 @@
-# **✨ Hey, I'm Srijita!**  
-### **Aspiring Full Stack Developer | BTech in Mechatronics | AI & IoT Enthusiast**
-
+# **🚀 Hey, I'm Srijita!**  
+### **Aspiring Full Stack Developer | Tech Explorer |  Coding Enthusiast**
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&width=700&lines=Creative+Web+Developer+in+the+making;Loves+Building+Modern+UIs+and+Smart+Apps;Research+Intern+at+DRDO+%7C+Tech+Explorer;AI+%26+IoT+Projects+%7C+LeetCode+Learner)
 
 <div align="center">
@@ -9,9 +8,10 @@
 
 ---
 
-## **👩‍💻 About Me**
-🔹 **BTech Mechatronics Engineering | 2nd Year**  
-🔹 **Research Intern at DRDO – Solid State Physics Laboratory**  
+## **👩‍💻 About Me**  
+🔹 **Passionate about Open Source, DSA, & Full-Stack Development**
+🔹 **Research Intern at DRDO – Solid State Physics Laboratory**
+🔹 **Interested in <b>Frontend Development</b> and <b>UI/UX Design</b>**  
 🔹 **Creating Projects in AI, IoT, and Full Stack Web Dev**  
 🔹 **Actively Learning DSA, Python, and Machine Learning**  
 🔹 **Love building creative, interactive web experiences**
@@ -68,8 +68,9 @@
 
 ---
 
-🌟 **If you like my projects, drop a ⭐ and connect with me!**  
-💻 **Happy Building!** 🚀
 ---
+
+🔥 **If you find my work useful, consider giving a ⭐ to my repositories!**  
+💻 **Happy Coding!** 🚀  
 
 <p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
